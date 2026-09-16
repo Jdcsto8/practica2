@@ -1,3 +1,4 @@
 hol soy tu primero de los cambios,,,,welcome 
 que bien esto es excelente asi se hace 
 mira quiero hacer un git fetch sera que pueedo ?
+agrego ecuacion a**2+2*xc-2**3
