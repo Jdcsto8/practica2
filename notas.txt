@@ -1,3 +1,5 @@
 hol soy tu primero de los cambios,,,,welcome 
 que bien esto es excelente asi se hace 
 mira quiero hacer un git fetch sera que pueedo ?
+este es mi aporte 
+2**2 + 2(2)-2**2+2**3
